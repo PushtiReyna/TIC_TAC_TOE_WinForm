@@ -58,11 +58,11 @@ namespace TICTACTOE_WinForm
             {
                 if (btnContent == "O")
                 {
-                    MessageBox.Show("PLAYER O WINS");
+                    MessageBox.Show("PLAYER NO. 1 WINS");
                 }
                 else if (btnContent == "X")
                 {
-                    MessageBox.Show("PLAYER X WINS");
+                    MessageBox.Show("PLAYER NO. 2 WINS");
                 }
                 ClearGame();
             }
@@ -74,6 +74,7 @@ namespace TICTACTOE_WinForm
                         return;
                 }
                 MessageBox.Show("GAME OVER NO ONE WINS");
+                ClearGame();
             }
         }
        
