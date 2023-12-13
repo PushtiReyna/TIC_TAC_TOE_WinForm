@@ -1,0 +1,10 @@
+D:\project\TICTACTOE_WinForm\bin\Debug\TICTACTOE_WinForm.exe.config
+D:\project\TICTACTOE_WinForm\bin\Debug\TICTACTOE_WinForm.exe
+D:\project\TICTACTOE_WinForm\bin\Debug\TICTACTOE_WinForm.pdb
+D:\project\TICTACTOE_WinForm\obj\Debug\TICTACTOE_WinForm.csproj.AssemblyReference.cache
+D:\project\TICTACTOE_WinForm\obj\Debug\TICTACTOE_WinForm.Form1.resources
+D:\project\TICTACTOE_WinForm\obj\Debug\TICTACTOE_WinForm.Properties.Resources.resources
+D:\project\TICTACTOE_WinForm\obj\Debug\TICTACTOE_WinForm.csproj.GenerateResource.cache
+D:\project\TICTACTOE_WinForm\obj\Debug\TICTACTOE_WinForm.csproj.CoreCompileInputs.cache
+D:\project\TICTACTOE_WinForm\obj\Debug\TICTACTOE_WinForm.exe
+D:\project\TICTACTOE_WinForm\obj\Debug\TICTACTOE_WinForm.pdb
