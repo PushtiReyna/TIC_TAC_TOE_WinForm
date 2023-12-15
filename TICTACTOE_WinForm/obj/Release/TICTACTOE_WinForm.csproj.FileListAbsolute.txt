@@ -1,0 +1,14 @@
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\bin\Release\TICTACTOE_WinForm.exe.config
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\bin\Release\TICTACTOE_WinForm.exe.manifest
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\bin\Release\TICTACTOE_WinForm.application
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\bin\Release\TICTACTOE_WinForm.exe
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\bin\Release\TICTACTOE_WinForm.pdb
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\obj\Release\TICTACTOE_WinForm.csproj.AssemblyReference.cache
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\obj\Release\TICTACTOE_WinForm.Form1.resources
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\obj\Release\TICTACTOE_WinForm.Properties.Resources.resources
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\obj\Release\TICTACTOE_WinForm.csproj.GenerateResource.cache
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\obj\Release\TICTACTOE_WinForm.csproj.CoreCompileInputs.cache
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\obj\Release\TICTACTOE_WinForm.exe.manifest
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\obj\Release\TICTACTOE_WinForm.application
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\obj\Release\TICTACTOE_WinForm.exe
+D:\project\TIC_TAC_TOE_WinForm\TIC_TAC_TOE_WinForm\TICTACTOE_WinForm\obj\Release\TICTACTOE_WinForm.pdb

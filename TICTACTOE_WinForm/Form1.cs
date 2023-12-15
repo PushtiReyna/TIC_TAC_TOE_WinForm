@@ -13,7 +13,6 @@ namespace TICTACTOE_WinForm
     public partial class Form1 : Form
     {
         int turn = 1;
-        int i, j;
 
         public Form1()
         {
